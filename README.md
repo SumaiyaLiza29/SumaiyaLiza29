@@ -1,6 +1,34 @@
-# 💫 About Me:
-## 👋 About Me<br><br>🔭 **I’m currently working as a Full Stack Developer**  <br>- Building web applications using **React.js, Node.js, and Express.js**  <br>- Creating RESTful APIs and dynamic user interfaces  <br><br>💼 **I’m actively looking for a job**  <br>- Full Stack Developer / React Developer / Node.js Developer roles  <br><br>🤝 **I’m open to collaborating on**  <br>- Full stack web projects  <br>- Open-source contributions  <br>- Startup and real-world applications  <br><br>🌱 **I’m currently learning**  <br>- Advanced React patterns  <br>- Backend optimization and API security  <br><br>💬 **Ask me about**  <br>- React.js (Hooks, Components, State Management)  <br>- Node.js & Express.js  <br>- REST APIs and full stack development  <br><br>⚡ **Fun fact**  <br>- I love building scalable web apps from scratch 🚀<br>
+<p align="center">
+  <img src="GITHUB%20PROFILE.png" width="100%" />
+</p>
 
+## 👋 About Me
+
+🔭 **Currently working as a Full Stack Developer**  
+- Developing modern web applications using **React.js, Node.js, and Express.js**  
+- Building RESTful APIs and interactive, responsive user interfaces  
+
+💼 **Actively seeking job opportunities**  
+- Full Stack Developer  
+- React.js Developer  
+- Node.js Developer  
+
+🤝 **Open to collaboration on**  
+- Full stack web applications  
+- Open-source projects  
+- Startup and real-world products  
+
+🌱 **Currently learning & improving**  
+- Advanced React concepts and performance optimization  
+- Backend scalability, security, and best practices  
+
+💬 **Ask me about**  
+- React.js (Hooks, Components, State Management)  
+- Node.js & Express.js  
+- REST APIs and end-to-end web development  
+
+⚡ **Fun fact**  
+- I enjoy turning ideas into scalable and efficient web applications 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sumaiyaliza23) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sumaiya_liza/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumaiyakter/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizasumaiya81@gmail.com) 
