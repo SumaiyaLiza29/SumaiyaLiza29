@@ -5,14 +5,11 @@
 <h1 align="center">Hi, I'm Sumaiya Akter 👋</h1>
 
 <p align="center">
-  <!-- Typing animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Frontend+Developer+(React)+%7C+MERN+Stack;Building+Responsive+%26+User-Friendly+Web+Apps;Open+to+Frontend+%2F+Web+Development+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=SumaiyaLiza29&style=flat&color=blue">
-    <img src="https://komarev.com/ghpvc/?username=SumaiyaLiza29&style=flat&color=blue" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SumaiyaLiza29&style=flat&color=blue" alt="profile views" />
 </p>
 
 ---
@@ -34,12 +31,12 @@
 - Real-world product ideas
 
 🌱 **Currently learning**
-- Advanced React patterns + performance optimization
+- Advanced React patterns + performance optimization  
 - Next.js basics + backend scalability & security best practices
 
 💬 **Ask me about**
-- React (Hooks, Components, State Management)
-- Tailwind CSS, Responsive Design
+- React (Hooks, Components, State Management)  
+- Tailwind CSS, Responsive Design  
 - REST API integration, Git/GitHub
 
 ⚡ **Fun fact**
@@ -97,23 +94,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumaiyaLiza29&show_icons=true&theme=react&hide_border=false" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SumaiyaLiza29&theme=react&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SumaiyaLiza29&show_icons=true&theme=react" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SumaiyaLiza29&theme=react" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumaiyaLiza29&theme=react&hide_border=false&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumaiyaLiza29&theme=react&layout=compact" height="160" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-
-![snake gif](https://github.com/SumaiyaLiza29/SumaiyaLiza29/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumaiyaLiza29/SumaiyaLiza29/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/SumaiyaLiza29/SumaiyaLiza29/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SumaiyaLiza29&icon=0&color=0" />
-</p>
