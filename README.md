@@ -107,7 +107,8 @@
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake
+
 
 ![snake gif](https://github.com/SumaiyaLiza29/SumaiyaLiza29/blob/output/github-contribution-grid-snake.svg)
 
